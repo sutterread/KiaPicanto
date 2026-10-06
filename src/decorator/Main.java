@@ -1,10 +1,10 @@
 package decorator;
 
-import decorator.accesoriesdecorators.AlarmSystemDecorator;
-import decorator.accesoriesdecorators.BikeRackDecorator;
-import decorator.accesoriesdecorators.CargoNetDecorator;
-import decorator.accesoriesdecorators.ParkingSensorDecorator;
-import decorator.accesoriesdecorators.WheelLocksDecorator;
+import decorator.accessoriesdecorators.AlarmSystemDecorator;
+import decorator.accessoriesdecorators.BikeRackDecorator;
+import decorator.accessoriesdecorators.CargoNetDecorator;
+import decorator.accessoriesdecorators.ParkingSensorDecorator;
+import decorator.accessoriesdecorators.WheelLocksDecorator;
 import decorator.concretecomponents.GTLineAT;
 import decorator.concretecomponents.VibrantMT;
 import decorator.concretecomponents.ZenithMT;
